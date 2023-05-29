@@ -23,7 +23,7 @@ export default function Skills() {
     },
     {
       name: "React.js",
-      icon: "rsrc/images/react.svg",
+      icon: "src/images/react.svg",
       level: 85,
     },
     {
