@@ -13,22 +13,22 @@ export default function Skills() {
   const skills = [
     {
       name: "HTML5/CSS3",
-      icon: "AlexMatosWeb/react-portfolio/src/images/html.svg",
+      icon: "react-portfolio/src/images/html.svg",
       level: 95,
     },
     {
       name: "JavaScript",
-      icon: "AlexMatosWeb/react-portfolio/src/images/javascript.svg",
+      icon: "react-portfolio/src/images/javascript.svg",
       level: 90,
     },
     {
       name: "React.js",
-      icon: "AlexMatosWeb/react-portfolio/src/images/react.svg",
+      icon: "react-portfolio/src/images/react.svg",
       level: 85,
     },
     {
       name: "Node.js",
-      icon: "sAlexMatosWeb/react-portfolio/src/images/nodejs.svg",
+      icon: "react-portfolio/src/images/nodejs.svg",
       level: 65,
     },
   ]
