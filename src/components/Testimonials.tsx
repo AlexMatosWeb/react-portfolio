@@ -18,7 +18,7 @@ export default function Testimonials() {
         <FaQuoteLeft className="h-8 w-8 text-gray-600" />
         <blockquote className="mb-6">
           <p className="text-2xl text-gray-900">
-            João me entregou o projeto no prazo e executando corretamente
+            Alex me entregou o projeto no prazo e executando corretamente
             conforme combinado no nosso contrato. Recomendo o trabalho dele para
             todos que desejam um trabalho sério.
           </p>
@@ -30,9 +30,9 @@ export default function Testimonials() {
             alt="João da Silva"
           />
           <div className="flex items-center divide-x-2 divide-gray-200">
-            <div className="pr-3 font-medium text-gray-900">João da Silva</div>
+            <div className="pr-3 font-medium text-gray-900">Thiago da Silva</div>
             <div className="pl-3 text-sm font-light text-gray-500">
-              Empresa.com
+              Grupo Sollution
             </div>
           </div>
         </figcaption>
