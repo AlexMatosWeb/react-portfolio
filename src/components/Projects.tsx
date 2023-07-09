@@ -27,11 +27,11 @@ export default function Projects() {
       colSpan: "col-span-1",
     },
     {
-      title: "TodoList",
-      description: "Todolist em Typescript",
+      title: "X-Men",
+      description: "Projeto-Xen",
       image:
         "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-      link: "https://alexmatosweb.github.io/todolist/public/",
+      link: "https://alexmatosweb.github.io/x-men-main/",
       colSpan: "col-span-1",
     },
     {
